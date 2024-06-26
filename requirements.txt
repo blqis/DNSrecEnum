@@ -1,0 +1,8 @@
+attrs
+aiohttp
+argparse
+colorama
+dnspython
+python-whois-extended
+requests
+python-nmap
