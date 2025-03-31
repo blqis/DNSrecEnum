@@ -1,6 +1,6 @@
 # Recon
 
-This is a Python reconnaissance tool that performs various operations to gather information about a target company:
+This is a Python reconnaissance tool that performs various operations to gather information about a target website:
 - Checks the existence of domains and subdomains
 - Domains to IP addresses resolution
 - DNS enumeration
